@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A young developer from Paris, France</h3>
 
-- 🔭 I’m currently working on **cat detection to monitor who is eating all the food**
+- 🔭 I’m currently working on hmmm... I'm not sure tbh
 
 - 🌱 I’m currently learning **Tensorflow**
 
